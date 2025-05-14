@@ -1,0 +1,8 @@
+outcmp.c:238:7:outcmp_mux_val	0	static
+outcmp.c:31:6:outcmp_init	48	static
+outcmp.c:144:6:outcmp_enable_int	16	static
+outcmp.c:159:6:outcmp_disable_int	16	static
+outcmp.c:174:9:outcmp_get_int	16	static
+outcmp.c:191:9:outcmp_chl_get_int	16	static
+outcmp.c:208:6:outcmp_clear_int	16	static
+outcmp.c:222:6:outcmp_clear_chl_int	16	static

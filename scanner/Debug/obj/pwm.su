@@ -1,0 +1,4 @@
+pwm.c:325:6:tim_mux_val	0	static
+pwm.c:297:6:pwm_update	24	static
+pwm.c:402:6:tim_timer_init1	0	static
+pwm.c:39:6:pwm_init	40	static

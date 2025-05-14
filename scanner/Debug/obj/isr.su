@@ -1,0 +1,3 @@
+isr.c:21:6:User_SysFun	8	static
+isr.c:62:6:USART2_IRQHandler	16	static
+isr.c:84:6:TIM1_BRK_TIM15_IRQHandler	16	static

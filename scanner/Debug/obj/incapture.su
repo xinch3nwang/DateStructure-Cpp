@@ -1,0 +1,8 @@
+incapture.c:267:13:tim_mux_val	0	static
+incapture.c:287:13:timer_init2	4	static
+incapture.c:31:6:incapture_init	32	static
+incapture.c:116:10:get_incapture_value	16	static
+incapture.c:139:6:cap_clear_flag	16	static
+incapture.c:164:9:cap_get_flag	16	static
+incapture.c:210:6:cap_enable_int	16	static
+incapture.c:238:6:cap_disable_int	16	static
